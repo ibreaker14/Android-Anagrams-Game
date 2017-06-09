@@ -1,8 +1,8 @@
-This is the starter code for the Anagrams workshop. 
-This workshop is part of the Applied CS with Android course:
+# Anagrams_Android
+a simple anagrams game for android
 
-http://g.co/cswithandroid
+### Author: Mingtau Li
 
-Check the website for detailed instructions on how to implement this activity.
-
-Version 1.0
+## About the game:
+The anagrams game is a modified version of anagrams in which a user has to input as many anagrams of a given word as possible with an extra letter added to it.
+For each round the player plays, the anagrams get harder and longer.
